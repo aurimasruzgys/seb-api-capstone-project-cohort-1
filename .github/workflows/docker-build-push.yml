@@ -60,7 +60,7 @@ jobs:
 
       - name: Build Docker image 
 
-        run: docker build -t hkshitesh/demorefund . 
+        run: docker build -t huste5/refunds-api . 
 
  
 
